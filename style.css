@@ -21,7 +21,7 @@ nav {
     display: flex;
     justify-content: space-evenly;
     justify-items: baseline;
-    align-items: center;
+    align-items: baseline;
 }
 .logo{
     margin-left: -150px;
